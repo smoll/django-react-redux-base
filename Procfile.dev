@@ -1,0 +1,2 @@
+backend: cd src && python manage.py runserver --settings=djangoreactredux.settings.dev
+frontend: npm run dev
